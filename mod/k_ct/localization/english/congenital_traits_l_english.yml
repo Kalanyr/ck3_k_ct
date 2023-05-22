@@ -1,0 +1,85 @@
+﻿l_english:
+
+ #martial
+ trait_skill_martial_good_1:0 "Militaristic"
+ trait_skill_martial_good_2:0 "Strategic"
+ trait_skill_martial_good_3:0 "Leader"
+
+ trait_skill_martial_good_1_desc:0 "Martial affinity lets this character understand militaristic ideas with ease."
+ trait_skill_martial_good_2_desc:0 "A Strategic Mind, this character has a natural affinity for strategy."
+ trait_skill_martial_good_3_desc:0 "As a natural Leader, this character can manage the whole world at once."
+
+ trait_skill_martial_good_1_character_desc:0 "Martial affinity lets [ROOT.GetCharacter.GetFirstNameNoTooltip] understand militaristic ideas with ease."
+ trait_skill_martial_good_2_character_desc:0 "A Strategic Mind, [ROOT.GetCharacter.GetFirstNameNoTooltip] has a natural affinity for strategy."
+ trait_skill_martial_good_3_character_desc:0 "As a natural Leader, [ROOT.GetCharacter.GetFirstNameNoTooltip] can manage the whole world at once."
+
+ #prowess
+ trait_skill_prowess_good_1:0 "Dodgy"
+ trait_skill_prowess_good_2:0 "Slippery"
+ trait_skill_prowess_good_3:0 "Unstoppable"
+
+ trait_skill_prowess_good_1_desc:0 "This character has good reflexes."
+ trait_skill_prowess_good_2_desc:0 "This character is hard to catch."
+ trait_skill_prowess_good_3_desc:0 "Genetically strong and fast this character is Unstoppable."
+
+ trait_skill_prowess_good_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has good reflexes."
+ trait_skill_prowess_good_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is hard to catch."
+ trait_skill_prowess_good_3_character_desc:0 "Genetically strong and fast [ROOT.GetCharacter.GetFirstNameNoTooltip] is Unstoppable."
+
+ #intrigue
+ trait_skill_intrigue_good_1:0 "Shady"
+ trait_skill_intrigue_good_2:0 "Venomous"
+ trait_skill_intrigue_good_3:0 "Killer"
+
+ trait_skill_intrigue_good_1_desc:0 "This character was born Shady."
+ trait_skill_intrigue_good_2_desc:0 "This character is Cold-bloded by birth."
+ trait_skill_intrigue_good_3_desc:0 "This character is genetically the perfect Killer."
+
+ trait_skill_intrigue_good_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was born Shady."
+ trait_skill_intrigue_good_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is Cold-bloded by birth."
+ trait_skill_intrigue_good_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is genetically the perfect Killer."
+
+ #diplomacy
+ trait_skill_diplomacy_good_1:0 "Charismatic"
+ trait_skill_diplomacy_good_2:0 "Magnetic"
+ trait_skill_diplomacy_good_3:0 "Enchanting"
+
+ trait_skill_diplomacy_good_1_desc:0 "This character has a somewhat likable personality."
+ trait_skill_diplomacy_good_2_desc:0 "Everyone is drawn to this character."
+ trait_skill_diplomacy_good_3_desc:0 "This character has an Enchanting aura."
+ 
+ trait_skill_diplomacy_good_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has a somewhat likable personality."
+ trait_skill_diplomacy_good_2_character_desc:0 "Everyone is drawn to [ROOT.GetCharacter.GetFirstNameNoTooltip]."
+ trait_skill_diplomacy_good_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has an Enchanting aura."
+ #stewardship
+
+ trait_skill_stewardship_good_1:0 "Organized"
+ trait_skill_stewardship_good_2:0 "Prosperous"
+ trait_skill_stewardship_good_3:0 "Numerate"
+
+ trait_skill_stewardship_good_1_desc:0 "This character gets everything lined up perfectly."
+ trait_skill_stewardship_good_2_desc:0 "This character is good at managing."
+ trait_skill_stewardship_good_3_desc:0 "Innately good with Numbers,this character can remember alot of details."
+
+ trait_skill_stewardship_good_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] gets everything lined up perfectly."
+ trait_skill_stewardship_good_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is good at managing."
+ trait_skill_stewardship_good_3_character_desc:0 "Innately good with Numbers,[ROOT.GetCharacter.GetFirstNameNoTooltip] can remember alot of details."
+ #learning
+ trait_skill_learning_good_1:0 "Thinker"
+ trait_skill_learning_good_2:0 "Oracle"
+ trait_skill_learning_good_3:0 "Cypher"
+ 
+ trait_skill_learning_good_1_desc:0 "This character uses their brain."
+ trait_skill_learning_good_2_desc:0 "With a clear vision of the world,this character is an Oracle of science."
+ trait_skill_learning_good_3_desc:0 "Hard to decode personally,this character can comprehend anything."
+ 
+ trait_skill_learning_good_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] uses their brain."
+ trait_skill_learning_good_2_character_desc:0 "With a clear vision of the world,[ROOT.GetCharacter.GetFirstNameNoTooltip] is an Oracle of science."
+ trait_skill_learning_good_3_character_desc:0 "Hard to decode personally,[ROOT.GetCharacter.GetFirstNameNoTooltip] can comprehend anything."
+ 
+ trait_skill_martial_good:0 "Natural Commanders"
+ trait_skill_prowess_good:0 "Natural Warriors"
+ trait_skill_intrigue_good:0 "Natural Schemers"
+ trait_skill_diplomacy_good:0 "Natural Diplomats"
+ trait_skill_stewardship_good:0 "Natural Stewards"
+ trait_skill_learning_good:0 "Natural Learners"
